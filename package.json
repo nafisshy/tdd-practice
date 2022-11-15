@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "all.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "nafisshy",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2"
+  }
+}
